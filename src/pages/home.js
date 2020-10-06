@@ -10,22 +10,20 @@ export default function Home() {
     <>
       <HeaderContainer>
         <Feature>
-          <Feature.Title>
-            Unlimited films, TV programs and more.
-          </Feature.Title>
+          <Feature.Title>Unlimited films, TV programs and more.</Feature.Title>
           <Feature.SubTitle>
             Watch anywhere. Cancel at anytime.
           </Feature.SubTitle>
-     
-        <OptForm>
+
+          <OptForm>
             <OptForm.Input placeholder="Email address" />
-            <OptForm.Button>Try it now</OptForm.Button>
-            <OptForm.Text>
-              Ready to watch? Enter your email to create or restart your
-              membership
-            </OptForm.Text>
-          </OptForm>   
-          </Feature>
+            <OptForm.Button>Try it now</OptForm.Button>{' '}
+          </OptForm>
+          <OptForm.Text>
+            Ready to watch? Enter your email to create or restart your
+            membership
+          </OptForm.Text>
+        </Feature>
       </HeaderContainer>
 
       <JumbotronContainer />
