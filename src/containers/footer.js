@@ -16,7 +16,7 @@ export function FooterContainer() {
         </Footer.Column>
 
         <Footer.Column>
-          <Footer.Link href="#">Help Centre</Footer.Link>
+          <Footer.Link href="#">Help Center</Footer.Link>
           <Footer.Link href="#">Jobs</Footer.Link>
           <Footer.Link href="#">Terms of Use</Footer.Link>
           <Footer.Link href="#">Contact Us</Footer.Link>
