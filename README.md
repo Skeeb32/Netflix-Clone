@@ -1,7 +1,7 @@
 <p align="center">
   <img  alt="Netflix" height="128px" width="128px" src="https://github.com/Skeeb32/Netflix-Clone/blob/main/logo.svg">
 </p>
-<h1 align="center"><a href="(Deployed Site)">Netflix-CLone</a></h1>
+<h1 align="center"><a href="(Deployed Site)">Netflix-Clone</a></h1>
 
 <h3 align="center">## Building Netflix from Scratch Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components</h3>
 
@@ -14,10 +14,9 @@
 <p>I used compound components (just a design pattern) to build my components, and there's over 10 examples as to how these are used. The styling is all handled via styled components. Using compound components made my actual dumb components really easy to test.</p>
 
 ## Local setup:
-- Make sure you have Node installed check using command `node -v`.
-- Run `npm i` to install all dependencies.
-- Run `npm start` to start the development server.
-- In your favourite browser open http://localhost:3000/#/page=0
+- Run `yarn install` to install all dependencies.
+- Run `yarn start` to start the development server.
+- In your favorite browser open http://localhost:3000/#/page=0
 
 ## Netflix Tutorial link:
 (10 Hour Tutorial by Karl Hadwen Here: https://www.youtube.com/watch?v=x_EEwGe-a9o)
@@ -26,7 +25,6 @@
 
 In the project directory, you can also try to run:
 
-### `yarn install`
 ### `yarn start`
 
 Runs the app in the development mode.<br />
@@ -34,3 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+## Test setup:
+- Run `yarn install` to install all dependencies.
+- Run `yarn test` to start the development server.
