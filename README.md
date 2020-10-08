@@ -1,7 +1,7 @@
 <p align="center">
   <img  alt="Netflix" height="128px" width="128px" src="https://github.com/Skeeb32/Netflix-Clone/blob/main/logo.svg">
 </p>
-<h1 align="center"><a href="https://netflix-clone-ba11c.web.app/"Deployed Netflix Clone Site</a></h1>
+<h1 align="center"><a href="https://netflix-clone-ba11c.web.app/"Deployed-Netflix-Clone-Site"</a></h1>
 
 <h3 align="center">## Building Netflix from Scratch Using React (Custom Hooks, Context, Portals), Firebase, Compound & Styled Components</h3>
 
