@@ -1,4 +1,4 @@
-<h1 align="center">Netflix Clone</h1>
+<h1 align="center">Netflix Clone!</h1>
 <p align="center">
   <img  alt="Netflix" height="128px" width="128px" src="https://github.com/Skeeb32/Netflix-Clone/blob/main/logo.svg">
 </p>
